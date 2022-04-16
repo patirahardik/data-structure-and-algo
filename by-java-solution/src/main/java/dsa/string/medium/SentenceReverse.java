@@ -1,4 +1,4 @@
-package dsa.string;
+package dsa.string.medium;
 
 public class SentenceReverse {
     public static String reverseSentence(String inputSentence){

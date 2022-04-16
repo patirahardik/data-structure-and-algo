@@ -1,4 +1,4 @@
-package dsa.string;
+package dsa.string.medium;
 
 public class WordReverse {
     public static String reverseWord(String inputWord){
