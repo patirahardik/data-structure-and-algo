@@ -1,0 +1,9 @@
+
+*.class
+.idea/workspace.xml
+by-java-solution/.idea/.name
+by-java-solution/.idea/compiler.xml
+by-java-solution/.idea/jarRepositories.xml
+by-java-solution/.idea/misc.xml
+by-java-solution/.idea/uiDesigner.xml
+by-java-solution/.idea/vcs.xml
